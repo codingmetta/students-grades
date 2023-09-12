@@ -1,0 +1,8 @@
+http://students-grades.talia-deckardt.de/data/grades_1.csv
+http://students-grades.talia-deckardt.de/data/grades_2.csv
+http://students-grades.talia-deckardt.de/data/grades_3.csv
+http://students-grades.talia-deckardt.de/data/grades_4.csv
+http://students-grades.talia-deckardt.de/data/grades_5.csv
+http://students-grades.talia-deckardt.de/data/grades_6.csv
+http://students-grades.talia-deckardt.de/data/grades_7.csv
+http://students-grades.talia-deckardt.de/data/grades_8.csv
